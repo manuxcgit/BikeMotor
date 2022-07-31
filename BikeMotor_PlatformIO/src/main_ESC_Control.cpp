@@ -1,6 +1,8 @@
 #include <Arduino.h>
 #include "ESC/VescUart.h"
 
+#define JustePourModif
+
 long _elapsed= 0;
 VescUart _ESC;
 
